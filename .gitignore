@@ -5,7 +5,7 @@ contrasenas.txt
 * .DS_Store
 
 #2 Asi ignoramos a todos los archivos que inician con a
-a* 
+g* 
 
 #3 Asi ignoramos un archivo dentro de una carpeta
 carpeta/archivo.extensión
